@@ -1,9 +1,7 @@
+
 <div align="center">
 
-<img width="1254" height="905" alt="Bijoux Uniques — Configurateur 3D" src="Screenshot 2026-04-30 005141.png" />
-
-### Bijoux Uniques — Configurateur de Bijoux 3D Interactif
-
+<img width="1723" height="1013" alt="Screenshot 2026-04-30 005034" src="https://github.com/user-attachments/assets/e46a4271-ca3b-4338-8251-aa83136fe8fd" />
 Un configurateur de bijoux 3D immersif avec rendu WebGI temps réel, animations GSAP pilotées par le scroll et personnalisation de diamants, développé avec des technologies web modernes.
 
 • [Galerie du Projet](#galerie-du-projet) • [Installation](#installation)
@@ -21,7 +19,9 @@ Un configurateur de bijoux 3D immersif avec rendu WebGI temps réel, animations 
 <table>
   <tr>
     <td width="100%" align="center">
-      <img width="1254" height="905" alt="Configurateur 3D — Bague or avec diamants roses" src="Screenshot 2026-04-30 005141.png" />
+      <img width="1266" height="1067" alt="Screenshot 2026-04-30 005123" src="https://github.com/user-attachments/assets/f86bacf6-5188-4240-8c4d-aecb6eee0825" />
+      <img width="1570" height="1053" alt="Screenshot 2026-04-30 005113" src="https://github.com/user-attachments/assets/54fb680d-1d9a-4a51-b58d-4811a493eedc" />
+      <img width="1205" height="1055" alt="Screenshot 2026-04-30 005056" src="https://github.com/user-attachments/assets/15cf39c7-1f2c-4eb6-9113-94feb5955d4f" />
       <br>
       <sub><b>Rendu Temps Réel</b> — Bague en or avec diamants roses, éclairage PBR complet</sub>
     </td>
@@ -29,6 +29,7 @@ Un configurateur de bijoux 3D immersif avec rendu WebGI temps réel, animations 
 </table>
 
 ### Caractéristiques Visuelles
+
 
 <table>
   <tr>
